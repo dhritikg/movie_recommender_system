@@ -13,7 +13,8 @@ This project encompasses the development of a Movie Recommender System, which re
 5. **Website**: Developing a Streamlit-based web application for user interaction.
 6. **Deployment**: Deploy the system using Streamlit Cloud to make recommendations accessible.
 
-#Pickle Files: In the Streamlit file (app.py) , in the lines 32 and 33 , similarity.pkl and movie_dict.pkl files are required which are generated from the preprocessing step. Due to GitHub's file size limitations, it couldn't be directly uploaded to the repository. Instead, it can be downloaded the from the [Google Drive link](https://drive.google.com/drive/folders/1w-J3A8qtLvh8E39uqbLmp0AzqWTcmjSt?usp=drive_link)
+# Pickle Files:
+In the Streamlit file (app.py) , in the lines 32 and 33 , similarity.pkl and movie_dict.pkl files are required which are generated from the preprocessing step. Due to GitHub's file size limitations, it couldn't be directly uploaded to the repository. Instead, it can be downloaded the from the [Google Drive link](https://drive.google.com/drive/folders/1w-J3A8qtLvh8E39uqbLmp0AzqWTcmjSt?usp=drive_link)
  
 
 
