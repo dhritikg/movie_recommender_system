@@ -1,4 +1,5 @@
 # Movie Recommender System
+![Preview](image.png)
 
 ## Project Overview
 
