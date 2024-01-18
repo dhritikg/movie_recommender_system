@@ -5,7 +5,7 @@
 
 This project encompasses the development of a Movie Recommender System, which recommends user Five similar movies to the selected Movies. The project involves data preprocessing, model building, and the creation of a web-based interface using Streamlit. The entire process includes the following steps:
 
-1. **Dataset**: The dataset used for this project is sourced from [TMDB Movie Metadata on Kaggle](https://www.kaggle.com/tmdb/tmdb-movie-metadata). It provides comprehensive information about movies, including features such as cast, crew, budget, and genres. 
+1. **Dataset** : The dataset used for this project is sourced from [TMDB Movie Metadata on Kaggle](https://www.kaggle.com/tmdb/tmdb-movie-metadata). It provides comprehensive information about movies, including features such as cast, crew, budget, and genres. 
 2. **Preprocessing**:
          - The data was processed using python which icluded keeping the relevant columns, obtaining required values, and concatenating them into a string (tag) for model input.
          - A deatiled explation of the preprocessing can be found in the [Google Colab File](Movie_Recommender_System.ipynb)
